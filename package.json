@@ -556,6 +556,7 @@
       "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.17.tgz",
       "version": "2.1.17"
     },
+    "mocha": "^5.2.0",
     "moment": "^2.20.1",
     "mongodb": "^3.0.1",
     "mongodb-core": {
@@ -784,6 +785,7 @@
       "resolved": "https://registry.npmjs.org/stringstream/-/stringstream-0.0.5.tgz",
       "version": "0.0.5"
     },
+    "supertest": "^3.3.0",
     "swagger-ui-express": "^2.0.15",
     "tough-cookie": {
       "integrity": "sha1-C2GKVWW23qkL80JdBNVe3EdadWE=",
