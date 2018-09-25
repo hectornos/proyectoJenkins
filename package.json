@@ -556,6 +556,7 @@
       "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.17.tgz",
       "version": "2.1.17"
     },
+    "mocha": "^5.2.0",
     "moment": "^2.20.1",
     "mongodb": "^3.0.1",
     "mongodb-core": {
