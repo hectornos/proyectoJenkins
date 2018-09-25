@@ -9,7 +9,7 @@ describe('#Test idiota para probar', () =>{
     valor2 = 8;
     resultadoEsperado = valor1 + valor2;
     const resultado = operacion.sumar(valor1,valor2);
-    resultado.should.be.eql(resultadoEsperado);
+    resultado.should.be.eql(resultadoEsperado+1);
     done();
   })
 
