@@ -1,6 +1,6 @@
-FROM node:8
-
-WORKDIR /opt/codigo
+FROM node:carbon
+WORKDIR /opt/front
+COPY . .
 
 COPY . .
 
